@@ -158,7 +158,6 @@ p { margin: 0 0 1em; }
   flex: none;
 }
 .app-icon svg { width: 40px; height: 40px; }
-.app-icon--pi { background: #419b92; color: #fff; }
 .app-icon--soon {
   border: 1.5px dashed var(--muted);
   color: var(--muted);
